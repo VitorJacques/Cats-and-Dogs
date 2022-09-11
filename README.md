@@ -14,3 +14,10 @@ Para o desenvolvimento do projeto será utilizado o dataset [The Oxford-IIIT Pet
 - Gerar um classificado de raças de animais
 Obs: Ao invés de um problema binário, a base de dados será utilizada para classificar raças de animais, sendo cada raça uma classe.
 
+PRINCIPAIS PONTOS ABORDADOS:
+
+Pacote CV2
+Organização do dataset no padrão Keras
+Aplicação de filtros e redicionamentos de imagens
+Criação de modelos de classificação de imagens
+Avalição de modelos
