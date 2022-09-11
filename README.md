@@ -17,7 +17,11 @@ Obs: Ao invés de um problema binário, a base de dados será utilizada para cla
 PRINCIPAIS PONTOS ABORDADOS:
 
 Pacote CV2
+
 Organização do dataset no padrão Keras
+
 Aplicação de filtros e redicionamentos de imagens
+
 Criação de modelos de classificação de imagens
+
 Avalição de modelos
